@@ -13,3 +13,4 @@ Bonus_miles--Number of miles earned from non-flight bonus transactions in the pa
 Bonus_trans--Number of non-flight bonus transactions in the past 12 months 
 Flight_miles_12mo--Number of flight miles in the past 12 months 
 Flight_trans_12--Number of flight transactions in the past 12 months  Days_since_enrolled--Number of days since enrolled in flier program  Award--whether that person had award flight (free flight) or not    
+...
